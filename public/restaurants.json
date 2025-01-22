@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "name": "Gourmet Haven",
+    "slug": "gourmet-haven",
+    "cuisine": "Italian",
+    "price": "$$",
+    "status": "open",
+    "rating": 4,
+    "description": "Gourmet Haven offers a sophisticated Italian dining experience with a variety of pastas, wood-fired pizzas, and seasonal specials. Enjoy a warm ambiance, perfect for a cozy dinner or a family gathering. It’s a go-to for all things Italian.",
+    "reviews": [
+      {
+        "image": "https://randomuser.me/api/portraits/men/45.jpg",
+        "name": "John Doe",
+        "rating": 5,
+        "text": "Amazing experience! The food was absolutely delicious, especially the wood-fired pizza. The staff were friendly, and the atmosphere was warm and cozy. Highly recommend!"
+      },
+      {
+        "image": "https://randomuser.me/api/portraits/men/52.jpg",
+        "name": "Emma White",
+        "rating": 4,
+        "text": "A great spot for an Italian meal! The pasta was fantastic, though I wish the service was a little quicker. Still, I would definitely return."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Burger Bliss",
+    "slug": "burger-bliss",
+    "cuisine": "American",
+    "price": "$",
+    "status": "close",
+    "rating": 3,
+    "description": "Burger Bliss serves juicy, handcrafted burgers with a selection of fresh toppings and sides. Despite its casual setting, each burger is crafted with premium ingredients. A perfect stop for burger lovers looking for a quick but tasty meal.",
+    "reviews": [
+      {
+        "image": "https://randomuser.me/api/portraits/men/19.jpg",
+        "name": "Chris Lee",
+        "rating": 3,
+        "text": "The burgers were good, but nothing special. The fries were great, though! I wish they had more options on the menu."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sushi Paradise",
+    "slug": "sushi-paradise",
+    "cuisine": "Japanese",
+    "price": "$$$",
+    "status": "open",
+    "rating": 5,
+    "description": "Sushi Paradise is a haven for sushi lovers, offering freshly prepared sushi and sashimi, served with exquisite presentation. Enjoy the finest ingredients from the sea, complemented by an elegant atmosphere, ideal for a special dinner or celebration.",
+    "reviews": [
+      {
+        "image": "https://randomuser.me/api/portraits/women/18.jpg",
+        "name": "Sophia Green",
+        "rating": 5,
+        "text": "The sushi here is absolutely incredible! The fish was so fresh, and the presentation was perfect. I can't wait to come back!"
+      },
+      {
+        "image": "https://randomuser.me/api/portraits/men/34.jpg",
+        "name": "Daniel Brown",
+        "rating": 4,
+        "text": "Great sushi, but a little on the expensive side. Definitely worth it for the quality of the food, though. I will be back for more."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pasta Perfection",
+    "slug": "pasta-perfection",
+    "cuisine": "Italian",
+    "price": "$$",
+    "status": "close",
+    "rating": 4,
+    "description": "Pasta Perfection delivers delicious Italian comfort food, from creamy pastas to hearty lasagna. The menu boasts a variety of fresh, flavorful dishes, perfect for those craving traditional Italian flavors in a charming and cozy setting.",
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "name": "Spice Symphony",
+    "slug": "spice-symphony",
+    "cuisine": "Indian",
+    "price": "$$",
+    "status": "open",
+    "rating": 4,
+    "description": "Spice Symphony takes you on a flavorful journey with aromatic Indian spices, offering a mix of classic curries, tandoori specials, and traditional sides. The vibrant and welcoming environment makes it a great spot for family and friends.",
+    "reviews": [
+      {
+        "image": "https://randomuser.me/api/portraits/men/21.jpg",
+        "name": "Raj Singh",
+        "rating": 5,
+        "text": "Incredible flavors! The butter chicken was my favorite, and the naan was so soft. The ambiance was perfect for a family dinner."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Taco Fiesta",
+    "slug": "taco-fiesta",
+    "cuisine": "American",
+    "price": "$",
+    "status": "open",
+    "rating": 3,
+    "description": "Taco Fiesta serves up fresh, tasty tacos with a variety of fillings, from grilled meats to vegetarian options. Their vibrant, laid-back atmosphere makes it a fun place for a casual meal with friends or a quick bite on the go.",
+    "reviews": []
+  },
+  {
+    "id": 7,
+    "name": "Dimsum Delight",
+    "slug": "dimsum-delight",
+    "cuisine": "Japanese",
+    "price": "$$$",
+    "status": "close",
+    "rating": 5,
+    "description": "Dimsum Delight offers a range of delicious dim sum dishes in an elegant, traditional setting. Known for their expertly crafted dumplings and steamed buns, it's the perfect place to experience authentic Japanese dim sum with a modern twist.",
+    "reviews": [
+      {
+        "image": "https://randomuser.me/api/portraits/men/57.jpg",
+        "name": "James Cooper",
+        "rating": 5,
+        "text": "The dim sum was exceptional, and the service was outstanding. Every dish was bursting with flavor. A must-visit for dim sum lovers!"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mediterranean Magic",
+    "slug": "mediterranean-magic",
+    "cuisine": "Italian",
+    "price": "$$",
+    "status": "open",
+    "rating": 4,
+    "description": "Mediterranean Magic presents a delightful mix of Mediterranean and Italian cuisine. With dishes like grilled seafood, fresh salads, and pasta, the restaurant promises an unforgettable meal in a cozy and inviting environment. Perfect for any occasion.",
+    "reviews": [
+      {
+        "image": "https://randomuser.me/api/portraits/women/44.jpg",
+        "name": "Maria Garcia",
+        "rating": 4,
+        "text": "The grilled seafood was fantastic, and the atmosphere was so warm and inviting. I’ll be back to try more dishes!"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Kebab Kingdom",
+    "slug": "kebab-kingdom",
+    "cuisine": "Indian",
+    "price": "$$",
+    "status": "close",
+    "rating": 4,
+    "description": "Kebab Kingdom specializes in mouthwatering grilled kebabs, offering a wide variety of skewers, from juicy lamb to tender chicken. The restaurant's smoky flavors and aromatic spices make it a must-try for anyone craving authentic Indian barbecue.",
+    "reviews": []
+  },
+  {
+    "id": 10,
+    "name": "Vegan Delight",
+    "slug": "vegan-delight",
+    "cuisine": "American",
+    "price": "$",
+    "status": "open",
+    "rating": 3,
+    "description": "Vegan Delight offers a diverse menu of plant-based dishes that even non-vegans will enjoy. From hearty grain bowls to delicious veggie burgers, it’s the perfect place for anyone looking for a fresh, nutritious, and satisfying meal.",
+    "reviews": []
+  },
+  {
+    "id": 11,
+    "name": "Crepe Corner",
+    "slug": "crepe-corner",
+    "cuisine": "Japanese",
+    "price": "$$$",
+    "status": "open",
+    "rating": 5,
+    "description": "Crepe Corner specializes in delicate, light crepes, both savory and sweet. The menu includes unique fillings like smoked salmon, fresh fruit, and chocolate, providing a sweet escape from the usual fare. A perfect spot for dessert lovers.",
+    "reviews": []
+  },
+  {
+    "id": 12,
+    "name": "Steak Supreme",
+    "slug": "steak-supreme",
+    "cuisine": "American",
+    "price": "$",
+    "status": "close",
+    "rating": 3,
+    "description": "Steak Supreme serves succulent steaks with your choice of seasoning, perfectly grilled to your liking. Paired with classic sides like mashed potatoes and veggies, it’s an excellent spot for steak lovers looking for a hearty, satisfying meal.",
+    "reviews": [
+      {
+        "image": "https://randomuser.me/api/portraits/men/30.jpg",
+        "name": "Andrew Miller",
+        "rating": 3,
+        "text": "The steak was good, but it didn't quite meet my expectations. It was a bit chewy, though the mashed potatoes were great."
+      }
+    ]
+  }
+]
